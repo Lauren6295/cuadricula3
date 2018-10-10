@@ -1,0 +1,143 @@
+#container {
+    position: relative;
+    margin: 0 auto;
+    width: 1200px;
+    height: 670px;
+    background: black;
+}
+
+.caja {
+    background: rgb(148, 65, 216);
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+.uno {
+    height: 100px;
+    width: 590px;
+    position: absolute;
+    top: 10px;
+    bottom: ;
+    right: ;
+    left: 10px;
+}
+
+.dos {
+    height: 100px;
+    width: 285px;
+    position: absolute;
+    top: 10px;
+    bottom: ;
+    right: ;
+    left: 610px;
+}
+
+.tres {
+    height: 100px;
+    width: 285px;
+    position: absolute;
+    top: 10px;
+    bottom: ;
+    right: ;
+    left:905px;
+}
+
+.cuatro {
+    height: 100px;
+    width: 290px;
+    position: absolute;
+    top: 120px;
+    bottom: ;
+    right: ;
+    left: 10px;
+}
+
+.cinco {
+    height: 100px;
+    width: 290px;
+    position: absolute;
+    top: 120px;
+    bottom: ;
+    right: 10px;
+    left: 310px;
+}
+
+.seis {
+    height: 100px;
+    width: 285px;
+    position: absolute;
+    top: 120px;
+    bottom: ;
+    right: 10px;
+    left: 610px;
+}
+
+.siete {
+    height: 210px;
+    width: 590px;
+    position: absolute;
+    top: 230px;
+    bottom: ;
+    right: 10px;
+    left: 10px;
+}
+
+.ocho {
+    height: 100px;
+    width: 285px;
+    position: absolute;
+    top: 230px;
+    bottom: ;
+    right: 10px;
+    left: 610px;
+}
+
+.nueve {
+    height: 100px;
+    width: 285px;
+    position: absolute;
+    top: 230px;
+    bottom: ;
+    right: 10px;
+    left: 905px;
+}
+
+.diez {
+    height: 100px;
+    width: 285px;
+    position: absolute;
+    top: 340px;
+    bottom: ;
+    right: 10px;
+    left: 610px;
+}
+
+.once {
+    height: 100px;
+    width: 885px;
+    position: absolute;
+    top: 450px;
+    bottom: ;
+    right: 10px;
+    left: 10px;
+}
+
+.doce {
+    height: 100px;
+    width: 285px;
+    position: absolute;
+    top: 450px;
+    bottom: ;
+    right: 10px;
+    left: 905px;
+}
+
+.trece {
+    height: 100px;
+    width: 285px;
+    position: absolute;
+    top: 560px;
+    bottom: ;
+    right: 10px;
+    left: 10px;
+}
